@@ -1,2 +1,87 @@
-# Java-Logic-Lab
-Implementasi logika dasar Java yang berfokus pada modularitas melalui Method berparameter, mekanisme Exception Handling untuk stabilitas program, serta algoritma perhitungan matematis bangun datar. Dikembangkan dengan integrasi Console Input dan JOptionPane untuk interaksi data yang dinamis dan efisien.
+## ☕ Java Logic Lab V1.0
+
+**Java Logic Lab** adalah kumpulan implementasi logika dasar dan konsep inti pemrograman Java yang dikembangkan sebagai bagian dari praktikum Sistem Informasi di **Institut Teknologi Mojosari**. Repository ini berfokus pada modularitas kode, stabilitas program, dan efisiensi algoritma.
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
+![Studio](https://img.shields.io/badge/DigiVora--Studio-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧑‍💻 Profil Pengembang
+| Detail | Keterangan |
+| :--- | :--- |
+| *Developer* | Achmad Khusnul Yakin, S.Kom. |
+| *Bussines Developer* | DigiVora Studio |
+| *Instansi* | Institut Teknologi Mojosari |
+
+---
+
+## 🚀 Fitur & Modul Utama
+
+Proyek ini terbagi menjadi tiga modul utama yang mengintegrasikan logika terstruktur dengan antarmuka dinamis:
+
+1.  **Hitung Bangun Datar**
+    * Implementasi logika matematika untuk menghitung luas dan volume objek geometri (Tabung, Kerucut, Bola, dll).
+    * Menggunakan interaksi dinamis melalui `JOptionPane` dan *Console Input*.
+
+2.  **Exception Handling**
+    * Penerapan mekanisme *try-catch* untuk menangani kesalahan runtime (seperti *ArithmeticException* dan *ArrayIndexOutOfBoundsException*).
+    * Memastikan stabilitas aplikasi saat menerima input yang tidak valid.
+
+3.  **Method Implementation**
+    * Penggunaan fungsi/method berparameter untuk meningkatkan efisiensi dan penggunaan kembali kode (*reusability*).
+    * Pemisahan logika kalkulasi dari fungsi utama (*main method*).
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+* **Bahasa:** Java (JDK 21+)
+* **IDE:** NetBeans IDE 29
+* **Libraries:** Java Swing (untuk `JOptionPane`), Java Utility (untuk `Scanner`).
+
+---
+
+## 📂 Struktur Folder
+
+```text
+📂 Java-Logic-Lab
+├── 📂 01-Hitung-Bangun-Datar  # Logika Geometri & JOptionPane
+├── 📂 02-Exception-Handling   # Contoh penanganan error runtime
+└── 📂 03-Method-Implementation # Implementasi modularitas fungsi
+```
+
+---
+
+## 🤝 Hubungi Saya
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/achmad-khusnul-yakin-25b87a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.instagram.com/digivora.studio" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://wa.me/6283116152891" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://github.com/DigiVora" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
+  </a>
+</p>
+<br>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Copyright%20%C2%A9%202026-DigiVora%20Studio-orange?style=flat-square" alt="Copyright">
+  <br>
+  <sub>Sistem ini dikembangkan dengan dedikasi oleh:
+  <br>
+  <b>Achmad Khusnul Yakin, S.Kom.</b></sub>
+</p>
